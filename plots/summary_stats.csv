@@ -1,0 +1,4 @@
+,,floors,floors,floors,floors,floors,gaps,gaps,gaps,gaps,gaps,enemies,enemies,enemies,enemies,enemies,blocks,blocks,blocks,blocks,blocks,pipes,pipes,pipes,pipes,pipes
+,,mean,std,median,min,max,mean,std,median,min,max,mean,std,median,min,max,mean,std,median,min,max,mean,std,median,min,max
+experiment,mode,,,,,,,,,,,,,,,,,,,,,,,,,
+11_v2_beats,pcg,199.02970297029702,0.5170364906592843,199.0,199,208,2.9933993399339935,0.11489699792428527,3.0,1,3,3.9933993399339935,0.11489699792428527,4.0,2,4,13.003300330033003,0.057448498962142616,13.0,13,14,0.0,0.0,0.0,0,0

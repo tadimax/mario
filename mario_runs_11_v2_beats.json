@@ -1,0 +1,4850 @@
+[
+  {
+    "timestamp": "2025-12-18T01:00:09.177Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 146366823,
+    "note": "auto",
+    "metrics": {
+      "floors": 208,
+      "gaps": 1,
+      "enemies": 2,
+      "blocks": 14,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:00:54.666Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:43.993Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.011Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.026Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.043Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.059Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.076Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.092Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.110Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.124Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.142Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.159Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.174Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.192Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.209Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.224Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.242Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.259Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.276Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.293Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.310Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.325Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.342Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.360Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.374Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.390Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.410Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.426Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.441Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.459Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.475Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.491Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.508Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.526Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.542Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.560Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.576Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.593Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.609Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.625Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.642Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.659Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.675Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.691Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.708Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.724Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.743Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.759Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.776Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.793Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.810Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.825Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.841Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.859Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.874Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.891Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.909Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.926Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.943Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.958Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.974Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:44.992Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.010Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.027Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.042Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.059Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.076Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.093Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.110Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.127Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.143Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.159Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.176Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.193Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.207Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.224Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.243Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.260Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.274Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.292Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.310Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.326Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.342Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.359Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.376Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.394Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.408Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.425Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.443Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.459Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.475Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.492Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.510Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.524Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.543Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.559Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.575Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.592Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.609Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.625Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.642Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.659Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.676Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.694Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.710Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.726Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.745Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.759Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.775Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.792Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.810Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.826Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.840Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.859Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.876Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.891Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.909Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.928Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.942Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.959Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.976Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:45.993Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.009Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.024Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.043Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.060Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.075Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.092Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.110Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.126Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.143Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.158Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.176Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.194Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.210Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.227Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.259Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.261Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.276Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.293Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.309Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.327Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.343Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.360Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.374Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.393Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.409Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.443Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.445Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.460Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.476Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.494Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.509Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.526Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.543Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.559Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.577Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.594Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.608Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.625Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.641Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.659Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.676Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.695Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.708Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.727Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.744Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.761Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.777Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.792Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.808Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.825Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.844Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.860Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.876Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.894Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.910Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.928Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.943Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.961Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.976Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:46.992Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.009Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.027Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.044Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.058Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.078Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.093Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.112Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.127Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.142Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.160Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.177Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.192Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.208Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.227Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.243Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.260Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.276Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.294Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.310Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.327Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.345Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.359Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.376Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.392Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.411Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.428Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.441Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.460Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.476Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.495Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.510Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.526Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.543Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.560Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.577Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.591Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.611Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.626Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.644Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.660Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.678Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.694Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.707Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.726Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.743Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.760Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.777Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.792Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.809Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.826Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.843Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.858Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.876Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.892Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.911Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.927Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.942Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.960Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.975Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:47.993Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.010Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.028Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.044Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.059Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.076Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.091Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.110Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.124Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.144Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.160Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.176Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.193Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.209Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.227Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.243Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.258Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.276Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.294Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.311Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.328Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.344Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.360Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.376Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.393Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.410Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.427Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.444Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.459Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.477Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.494Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.510Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.527Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.544Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.561Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.578Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.598Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.609Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.627Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.644Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.660Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.676Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.695Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.711Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.725Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.743Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.760Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.777Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.794Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.810Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.825Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.843Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.860Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.875Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.891Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.908Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.927Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.942Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.960Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:01:48.977Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  },
+  {
+    "timestamp": "2025-12-18T01:02:04.765Z",
+    "level_id": "1-1",
+    "file_id": "11_v2_beats",
+    "generator_version": "v2_beats",
+    "mode": "pcg",
+    "seed": 441524318,
+    "note": "auto",
+    "metrics": {
+      "floors": 199,
+      "gaps": 3,
+      "enemies": 4,
+      "blocks": 13,
+      "pipes": 0
+    }
+  }
+]
